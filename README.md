@@ -1,16 +1,10 @@
-# carservice
+# Car Service
 
-A new Flutter project.
+A clean design for a car service center created with flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/6023001-Eleanor-iOS-Car-App/attachments/1294142
+How do I code this - https://youtu.be/yjij9H2KS-Q
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![screenshot_20190227-232602](https://user-images.githubusercontent.com/8137504/53512776-a31eb380-3ae9-11e9-91dd-a09d865553aa.png)
